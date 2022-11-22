@@ -53,3 +53,20 @@ ul{
     font-size: 30px;
     color: aliceblue;
 }
+/* header end */
+/* main */
+.main{
+    height: 100vh;
+    background: mediumorchid;
+    padding-top: 50px;
+}
+.main__list{
+    margin-left: 50px;
+    display: flex;
+    gap: 50px;
+}
+.main__list-link{
+    font-size: 30px;
+    color: red;
+}
+
